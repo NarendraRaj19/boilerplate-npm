@@ -34,7 +34,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone git@github.com:NarendraRaj19/boilerplate-express.git
+    $ git clone git@github.com:NarendraRaj19/boilerplate-npm.git
     $ cd boilerplate-express
     $ npm install
 
